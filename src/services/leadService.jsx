@@ -1,5 +1,5 @@
 
-const SCRIPT_URL = "https://script.google.com/macros/s/AKfycbznYLe8Xoph5YSErn7ZWnZNmQz94m4jjL2uesZ4CPnurzxDfYrXv1EZiPk92pdaMpFh/exec";
+const SCRIPT_URL = "https://script.google.com/macros/s/AKfycbwedWohxXHY5bzigdil5TDW9zrhPWDckKU0tAjBuzynMGoZHtk7-RMGJtEYme1mCPoL/exec";
 
 export async function editarLead({ id, status, responsavel }) {
   try {
